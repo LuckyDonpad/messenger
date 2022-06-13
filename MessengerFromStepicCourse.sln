@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessengerFromStepicCourse", "MessengerFromStepicCourse\MessengerFromStepicCourse.csproj", "{084D43A2-5EB4-476D-BC17-0870D1D5FBBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{084D43A2-5EB4-476D-BC17-0870D1D5FBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084D43A2-5EB4-476D-BC17-0870D1D5FBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084D43A2-5EB4-476D-BC17-0870D1D5FBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084D43A2-5EB4-476D-BC17-0870D1D5FBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
